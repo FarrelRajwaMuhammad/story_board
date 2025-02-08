@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'sources/button.dart';
-import 'sources/background.dart';
+import '../sources/button.dart';
+import '../sources/background.dart';
 
 class StoryBoard extends StatelessWidget {
   const StoryBoard({super.key});

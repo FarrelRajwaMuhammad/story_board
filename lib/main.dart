@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'home.dart';
-import 'story_board.dart';
+import 'page/home.dart';
+import 'page/story_board.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
