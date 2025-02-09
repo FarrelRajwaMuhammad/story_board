@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.myapp.story_board">
     <application
         android:label="story_board"
         android:name="${applicationName}"

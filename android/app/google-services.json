@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606219388707",
+    "project_id": "story-board-49122",
+    "storage_bucket": "story-board-49122.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606219388707:android:eb4a64028b04e4f4632e96",
+        "android_client_info": {
+          "package_name": "com.myapp.story_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTKSP5Xqo0L1w-j3RNv7bj7W1QJKbcxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
